@@ -1,0 +1,9 @@
+/Users/lulin/Documents/DataSet
+DataFile.txt
+100
+10
+10
+45
+100
+20
+2
